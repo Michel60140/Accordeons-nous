@@ -1,0 +1,33 @@
+body
+{
+    background-color: #212529;
+}
+
+article
+{
+    background-image: url("../images/abstract-light-show-background.jpg");
+    width: 1200px;
+    height: 700px;
+}
+
+footer
+{
+    height: 185px;
+}
+
+.page
+{
+    width: 1200px;
+    margin: auto;
+    
+}
+
+.acc-n
+{
+    width: 450px;
+}
+
+.logo3
+{
+    width: 170px;
+}
